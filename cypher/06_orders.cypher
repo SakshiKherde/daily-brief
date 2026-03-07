@@ -1,0 +1,11 @@
+// Create Orders
+CREATE (:Order {id: 'O001', date: '2025-11-01', total: 448, status: 'Completed'})
+CREATE (:Order {id: 'O002', date: '2025-11-15', total: 149, status: 'Completed'})
+CREATE (:Order {id: 'O003', date: '2025-12-01', total: 699, status: 'Completed'})
+CREATE (:Order {id: 'O004', date: '2025-12-10', total: 99, status: 'Completed'})
+CREATE (:Order {id: 'O005', date: '2026-01-05', total: 499, status: 'Completed'})
+CREATE (:Order {id: 'O006', date: '2026-01-20', total: 278, status: 'Pending'})
+CREATE (:Order {id: 'O007', date: '2026-02-01', total: 349, status: 'Completed'})
+CREATE (:Order {id: 'O008', date: '2026-02-14', total: 129, status: 'Completed'})
+CREATE (:Order {id: 'O009', date: '2026-02-20', total: 199, status: 'Refunded'})
+CREATE (:Order {id: 'O010', date: '2026-03-01', total: 598, status: 'Completed'})

@@ -1,0 +1,11 @@
+// Create Customers
+CREATE (:Customer {id: 'C001', name: 'Sarah Chen', email: 'sarah@techcorp.com', age: 34, tier: 'Premium'})
+CREATE (:Customer {id: 'C002', name: 'James Wright', email: 'james@startup.io', age: 29, tier: 'Standard'})
+CREATE (:Customer {id: 'C003', name: 'Priya Patel', email: 'priya@enterprise.com', age: 42, tier: 'Premium'})
+CREATE (:Customer {id: 'C004', name: 'Marcus Lee', email: 'marcus@devco.com', age: 31, tier: 'Standard'})
+CREATE (:Customer {id: 'C005', name: 'Elena Ross', email: 'elena@cloudbase.io', age: 38, tier: 'Premium'})
+CREATE (:Customer {id: 'C006', name: 'Tom Baker', email: 'tom@newbiz.com', age: 25, tier: 'Basic'})
+CREATE (:Customer {id: 'C007', name: 'Aisha Malik', email: 'aisha@fintech.com', age: 36, tier: 'Premium'})
+CREATE (:Customer {id: 'C008', name: 'David Kim', email: 'david@agency.co', age: 44, tier: 'Standard'})
+CREATE (:Customer {id: 'C009', name: 'Rachel Green', email: 'rachel@retail.com', age: 33, tier: 'Basic'})
+CREATE (:Customer {id: 'C010', name: 'Omar Hassan', email: 'omar@globaltech.com', age: 47, tier: 'Premium'})
